@@ -2,6 +2,8 @@
 
 This script automates various operations for RKE (Rancher Kubernetes Engine) clusters, including taking snapshots, restoring from snapshots, and upgrading the cluster.
 
+![image](https://github.com/user-attachments/assets/6334653b-b4c1-420f-a4c5-fe96b441df3c)
+
 ## Requirements
 
 - Bash
